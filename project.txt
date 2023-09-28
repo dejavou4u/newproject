@@ -1,8 +1,6 @@
 WSL supports running as many different Linux distributions as you would like to install. This can include choosing distributions from the Microsoft Store, importing …
 There are several ways to run your Linux distributions once installed:
-•Install Windows Terminal (Recommended) Using Windows Termi… See more
-Overview.
-git clone
+
 git add
 git commit -m "fixes update"
 git push origin main
